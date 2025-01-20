@@ -28,7 +28,7 @@ This API provides secure authentication services using JWT (JSON Web Token). The
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/Taskeenhaider321/product-api.git
+git clone https://github.com/Taskeenhaider321/authentications.git
 cd product-api
 ```
 
@@ -163,7 +163,3 @@ npm run test
 
 - **Authentication and Authorization:** JWT-based authentication secures routes.
 - **Input Validation:** Input data is validated to prevent common vulnerabilities like SQL Injection, XSS, etc.
-
-```
-
-```
