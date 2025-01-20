@@ -31,7 +31,7 @@ This API provides secure authentication services using JWT (JSON Web Token). The
 git clone https://github.com/Taskeenhaider321/authentications.git
 cd authentications
 ```
-
+ 
 ### 2. Install Dependencies
 
 ```bash
